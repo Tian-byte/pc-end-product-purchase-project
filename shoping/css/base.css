@@ -43,6 +43,7 @@ input {
     /* 默认有灰色边框我们需要手动去掉 */
     border: 0; 
     outline: none;
+    /* 去掉蓝色边框 */
 }
 
 body {
