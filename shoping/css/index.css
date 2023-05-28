@@ -205,6 +205,7 @@
 }
 
 .bb {
+    /* 一般情况下，a如果包含有宽度的盒子，a需要转换为块级元素 */
     display: block;
     border-bottom: 1px solid #ccc;
 }
